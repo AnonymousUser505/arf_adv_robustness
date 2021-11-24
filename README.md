@@ -1,4 +1,4 @@
-# arf_robustness
+# Augmented Random Forest
     Simple Post-Training Robustness Using Test Time Augmentations and Random Forest
     This repo reproduces all the reuslts shown in our paper.
 
