@@ -47,7 +47,7 @@
     10) [Boundary]: python src/scripts/attack.py --checkpoint_dir /tmp/adversarial_robustness/cifar10/resnet34/regular/resnet34_00 --attack boundary --targeted True --attack_dir boundary
 
 
-# Training the random forest
+# Fit the random forest
     After attacking a network with the above 10 attack, train the random forest by running:
     python src/scripts/train_random_forest.py --checkpoint_dir /tmp/adversarial_robustness/cifar10/resnet34/regular/resnet34_00
     
